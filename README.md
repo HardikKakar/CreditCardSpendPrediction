@@ -1,4 +1,4 @@
-# Credit-Card-Spend-Prediction
+# Credit Card Spend Prediction
 Case Study- Banking
 
 Credit Card Spend Prediction- Identification of Drivers for Spend
