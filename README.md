@@ -8,7 +8,7 @@ One of the global banks would like to understand what factors driving credit car
 The objective of this project is to understand what’s driving the total spend. Given the factors, predict credit limit for the new applicants.
 
 Please find the following files:
--Required .ipynb file
--Derived insights in .pdf file
--Provided data and other material
--Prediction in form of excel file, Results.csv
+>> Required .ipynb file
+>> Derived insights in .pdf file
+>> Provided data and other material
+>> Prediction in form of excel file, Results.csv
